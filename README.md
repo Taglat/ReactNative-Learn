@@ -22,3 +22,6 @@ https://docs.swmansion.com/react-native-gesture-handler/docs/gestures/tap-gestur
 6. Take a screenshot
 npx expo install react-native-view-shot expo-media-library
 The react-native-view-shot and expo-media-library work only on Android and iOS, however, we'd like our app to work on the web as well.
+
+7. Handle platform differences
+npm install dom-to-image
