@@ -7,3 +7,6 @@ npx expo start
 In this tutorial, learn how to use React Native components such as Image, Pressable, and Vector icons to build a screen.
 
 npx expo install @expo/vector-icons
+
+3. Use an image picker
+npx expo install expo-image-picker
