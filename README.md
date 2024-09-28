@@ -18,3 +18,7 @@ In this tutorial, learn how to create a modal from React Native to select an ima
 5. Add gestures
 npx expo install react-native-gesture-handler react-native-reanimated
 https://docs.swmansion.com/react-native-gesture-handler/docs/gestures/tap-gesture
+
+6. Take a screenshot
+npx expo install react-native-view-shot expo-media-library
+The react-native-view-shot and expo-media-library work only on Android and iOS, however, we'd like our app to work on the web as well.
