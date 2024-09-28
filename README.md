@@ -9,4 +9,8 @@ In this tutorial, learn how to use React Native components such as Image, Pressa
 npx expo install @expo/vector-icons
 
 3. Use an image picker
+In this tutorial, learn how to use Expo Image Picker.
 npx expo install expo-image-picker
+
+4. Create a modal
+In this tutorial, learn how to create a modal from React Native to select an image.
