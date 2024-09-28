@@ -25,3 +25,5 @@ The react-native-view-shot and expo-media-library work only on Android and iOS, 
 
 7. Handle platform differences
 npm install dom-to-image
+
+8. Configure status bar, splash screen and app icon
